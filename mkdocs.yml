@@ -1,0 +1,28 @@
+site_name: PixelStudio
+site_url: https://your.site.url
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Installation: getting-started/installation.md
+      - Quick Start: getting-started/quick-start.md
+      - Building: getting-started/building.md
+  - User Guide:
+      - Interface: user-guide/interface.md
+      - Drawing Tools: user-guide/drawing-tools.md
+      - Layers: user-guide/layers.md
+      - Animation: user-guide/animation.md
+      - Palettes: user-guide/palettes.md
+      - Exporting: user-guide/exporting.md
+      - Shortcuts: user-guide/shortcuts.md
+
+theme:
+  name: material
+
+markdown_extensions:
+  - toc:
+      anchorlink: true
+
+plugins:
+  - search:
+  - mkdocs-material-extensions
