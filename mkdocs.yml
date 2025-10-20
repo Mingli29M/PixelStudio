@@ -1,8 +1,7 @@
 site_name: PixelStudio
-site_url: https://your.site.url
-
+theme:
+  name: material
 nav:
-  - Home: index.md
   - Getting Started:
       - Installation: getting-started/installation.md
       - Quick Start: getting-started/quick-start.md
@@ -15,14 +14,17 @@ nav:
       - Palettes: user-guide/palettes.md
       - Exporting: user-guide/exporting.md
       - Shortcuts: user-guide/shortcuts.md
-
-theme:
-  name: material
-
-markdown_extensions:
-  - toc:
-      anchorlink: true
-
-plugins:
-  - search:
-  - mkdocs-material-extensions
+  - Development:
+      - Architecture: development/architecture.md
+      - Project Structure: development/project-structure.md
+      - Coding Standards: development/coding-standards.md
+      - Contributing: development/contributing.md
+  - Features:
+      - Drawing System: features/drawing-system.md
+      - Layer Management: features/layer-management.md
+      - Animation Timeline: features/animation-timeline.md
+      - File Formats: features/file-formats.md
+  - About:
+      - Roadmap: about/roadmap.md
+      - License: about/license.md
+      - Changelog: about/changelog.md
