@@ -12,3 +12,5 @@
 
 ## View
 - + / -: Zoom in/out, Space + Drag: Pan
+
+---

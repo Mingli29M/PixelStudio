@@ -20,3 +20,5 @@
 ## Performance
 - Dirty regions
 - Cached previews
+
+---

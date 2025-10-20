@@ -27,3 +27,5 @@ PixelStudio/
 - PascalCase for scenes, snake_case for scripts
 - Signals prefixed with on_
 - Type hints for public APIs
+
+---

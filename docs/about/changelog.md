@@ -8,3 +8,5 @@ This project follows Keep a Changelog and Semantic Versioning.
 
 ## [0.1.0] - TBA
 - First preview with core canvas and basic tools
+
+---

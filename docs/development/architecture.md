@@ -16,3 +16,5 @@ High-level architecture of PixelStudio, including core systems and how they inte
 
 ## Data Flow
 Input → Tool → Operation → Image → Texture → Canvas
+
+---

@@ -15,3 +15,5 @@
 
 ## Sprite Sheets
 - Grid and metadata export
+
+---
