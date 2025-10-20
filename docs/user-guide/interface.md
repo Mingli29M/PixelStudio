@@ -1,0 +1,1 @@
+Interface Overview with main window layout, menu bar, toolbar, canvas area, tool options, color panel, layer panel, timeline panel, status bar, and customization options

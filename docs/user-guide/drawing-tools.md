@@ -1,0 +1,1 @@
+Drawing Tools guide covering Pencil (P), Eraser (E), Fill Bucket (G), Line (L), Rectangle (R), Circle (C), Selection tools, Move (V), Eyedropper (I), tool options, and tips

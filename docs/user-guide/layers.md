@@ -1,0 +1,1 @@
+Layers guide explaining what layers are, layer panel, creating/selecting/reordering/duplicating/merging/deleting layers, blend modes, layer groups, and best practices

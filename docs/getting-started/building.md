@@ -1,0 +1,1 @@
+Building from Source guide with prerequisites, clone instructions, Godot setup, export templates, and troubleshooting
