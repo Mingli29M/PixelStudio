@@ -29,6 +29,9 @@ dist/
 *.dmg
 *.app
 
+# MkDocs build directory
+site/
+
 # Logs and databases
 *.log
 *.sql
