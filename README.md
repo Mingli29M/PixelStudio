@@ -47,6 +47,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by [Aseprite](https://www.aseprite.org/)
 - Built with [Godot Engine](https://godotengine.org/)
 
+## 🤖 AI Assistance
+
+We use AI-assisted tools (e.g., GitHub Copilot, ChatGPT) to help draft code and documentation. All AI-assisted output is reviewed, edited, and tested by maintainers before being merged. We preserve original licenses and attributions when incorporating third-party code.
+
 ## 💬 Contact
 
 - **GitHub Issues**: For bug reports and feature requests
