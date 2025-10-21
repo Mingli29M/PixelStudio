@@ -38,6 +38,20 @@ This project is currently in early development. Check the [Issues](https://githu
 
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
+## 🤖 AI Usage and Attribution
+
+Parts of this project (code, documentation, and tests) are assisted by AI tools such as GitHub Copilot and ChatGPT. All AI-assisted output is reviewed, edited, and tested by the maintainers before being merged.
+
+Principles we follow:
+- Transparency: We disclose meaningful AI assistance in pull requests and release notes when applicable.
+- Responsibility: Maintainers are responsible for validating and testing all changes.
+- Licensing: When incorporating third‑party or open‑source code, we preserve original licenses and attributions and ensure license compatibility.
+
+If you contribute:
+- Please mention if AI tools assisted your changes (a short note in the PR is fine).
+- Do not include secrets or private data in prompts.
+- Preserve license headers and NOTICE texts when reusing code.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
